@@ -130,6 +130,14 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+    cursor: url("https://cdn.jsdelivr.net/gh/XXKDB/img_cdn/cursor/pointer2.cur"), pointer !important;
+}
+body {
+    cursor: url("https://cdn.jsdelivr.net/gh/XXKDB/img_cdn/cursor/default.cur"), default !important
+}
+
+
 .emoji-icon {
     width: 5%;
 }
