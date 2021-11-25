@@ -130,6 +130,14 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icp-icon {
+    width: 5%;
+}
+
+.zhuoze-blog {
+    text-decoration: none;
+}
+
 .icon-dashboard:before {
     content: "\e906";
 }
