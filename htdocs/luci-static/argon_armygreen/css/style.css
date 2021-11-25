@@ -134,8 +134,9 @@
     width: 5%;
 }
 
-.zhuoze-blog {
+.author-blog {
     text-decoration: none;
+    color: #ff7600;
 }
 
 .icon-dashboard:before {
